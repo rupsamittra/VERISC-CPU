@@ -1,0 +1,21 @@
+# Vivado generated directories
+.Xil/
+.cache/
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+ip_user_files/
+
+# Generated logs and simulation outputs
+*.jou
+*.log
+*.str
+*.wdb
+*.dcp
+
+# Generated hardware files
+*.bit
+*.bin
+*.ltx
+*.mcs
